@@ -1,2 +1,1 @@
-# dekarten-client-web
-Dekarten web client
+# Dekarten Web Client
